@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ce5581d-75a7-4235-9533-fd8c38c6ebee" name="Changes" comment="Commit the latest changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Anagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +57,7 @@
     "Application.Palindrome.executor": "Debug",
     "Application.Pattern.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
+    "Application.RemoveLeadingZeroes.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.RightAngleTriangle.executor": "Run",
     "Application.SumOfArray.executor": "Run",
@@ -72,7 +72,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Anagram">
+  <component name="RunManager" selected="Application.RemoveLeadingZeroes">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Anagram" />
       <module name="JSProjects" />
@@ -125,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.SumOfArray" />
+    <configuration name="RemoveLeadingZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RemoveLeadingZeroes" />
       <module name="JSProjects" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveLeadingZeroes" />
         <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.LargestElement" />
-        <item itemvalue="Application.SumOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756548688565</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit the latest changes">
+      <option name="closed" value="true" />
+      <created>1756641741771</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756641741772</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

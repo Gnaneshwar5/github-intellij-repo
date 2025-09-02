@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ce5581d-75a7-4235-9533-fd8c38c6ebee" name="Changes" comment="Commit the latest changes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SwapNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +62,7 @@
     "Application.ReverseNumber.executor": "Run",
     "Application.RightAngleTriangle.executor": "Run",
     "Application.SumOfArray.executor": "Run",
+    "Application.SwapNumbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -72,22 +74,9 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RemoveLeadingZeroes">
+  <component name="RunManager" selected="Application.SwapNumbers">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Anagram" />
-      <module name="JSProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.LargestElement" />
       <module name="JSProjects" />
       <extension name="coverage">
         <pattern>
@@ -138,13 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwapNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SwapNumbers" />
+      <module name="JSProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapNumbers" />
         <item itemvalue="Application.RemoveLeadingZeroes" />
         <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.RemoveDuplicates" />
-        <item itemvalue="Application.LargestElement" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756641741772</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit the latest changes">
+      <option name="closed" value="true" />
+      <created>1756728852097</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756728852097</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

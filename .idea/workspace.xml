@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ce5581d-75a7-4235-9533-fd8c38c6ebee" name="Changes" comment="Commit the latest changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumberOfEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CountSumOfDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,20 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberOfEvenOdd">
+  <component name="RunManager" selected="Application.CountSumOfDigits">
+    <configuration name="CountSumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.CountSumOfDigits" />
+      <module name="JSProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.NumberOfDigits" />
       <module name="JSProjects" />
@@ -93,19 +106,6 @@
     </configuration>
     <configuration name="NumberOfEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.NumberOfEvenOdd" />
-      <module name="JSProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveLeadingZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.RemoveLeadingZeroes" />
       <module name="JSProjects" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountSumOfDigits" />
         <item itemvalue="Application.NumberOfEvenOdd" />
         <item itemvalue="Application.NumberOfDigits" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.SwapNumbers" />
-        <item itemvalue="Application.RemoveLeadingZeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757337999548</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Commit the latest changes">
+      <option name="closed" value="true" />
+      <created>1757421948873</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757421948873</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
